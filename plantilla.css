@@ -1,0 +1,10 @@
+input[type="text"] {
+    color: blue;
+}
+.fondoNegro{
+    background-color: black;
+    color:white;
+}
+#fecha{
+    height: 40px;
+}
